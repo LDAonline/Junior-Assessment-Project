@@ -20,25 +20,25 @@ title.config(font=22, bg=backgroundcolor, fg=textcolor)
 title.place(x=0, y=0,width=400, height=200)
 
 data_Set = [
-    {"Make": "Toyota", "Model": "Corolla", "Year": 2018, "Colour": "Red"},  # 1
+    {"Make": "Toyota", "Model": "Corolla", "Year": 2018, "Colour": "Red"},  
     {"Make": "Ford", "Model": "Mustang", "Year": 2019, "Colour": "Blue"},
     {"Make": "Honda", "Model": "Civic", "Year": 2020, "Colour": "Black"},
     {"Make": "Chevrolet", "Model": "Malibu", "Year": 2017, "Colour": "White"},
     {"Make": "BMW", "Model": "X5", "Year": 2021, "Colour": "Silver"},
     {"Make": "Tesla", "Model": "Model 3", "Year": 2022, "Colour": "Gray"},
     {"Make": "Hyundai", "Model": "Elantra", "Year": 2019, "Colour": "Blue"},
-    {"Make": "Nissan", "Model": "Altima", "Year": 2018, "Colour": "Red"},  # 2
+    {"Make": "Nissan", "Model": "Altima", "Year": 2018, "Colour": "Red"},  
     {"Make": "Volkswagen", "Model": "Jetta", "Year": 2020, "Colour": "Black"},
     {"Make": "Kia", "Model": "Optima", "Year": 2016, "Colour": "White"},
     {"Make": "Audi", "Model": "A4", "Year": 2021, "Colour": "Silver"},
     {"Make": "Mercedes-Benz", "Model": "C-Class", "Year": 2019, "Colour": "Gray"},
     {"Make": "Subaru", "Model": "Forester", "Year": 2018, "Colour": "Green"},
-    {"Make": "Mazda", "Model": "CX-5", "Year": 2020, "Colour": "Red"},  # 3
+    {"Make": "Mazda", "Model": "CX-5", "Year": 2020, "Colour": "Red"},  
     {"Make": "Jeep", "Model": "Wrangler", "Year": 2021, "Colour": "Black"},
     {"Make": "Dodge", "Model": "Charger", "Year": 2019, "Colour": "Blue"},
-    {"Make": "Lexus", "Model": "RX", "Year": 2017, "Colour": "Red"},  # meant to be white
-    {"Make": "Volvo", "Model": "XC90", "Year": 2021, "Colour": "Red"},  # Meant to be silver
-    {"Make": "Porsche", "Model": "Cayenne", "Year": 2022, "Colour": "Red"},  # Meant to be gray
+    {"Make": "Lexus", "Model": "RX", "Year": 2017, "Colour": "White"},
+    {"Make": "Volvo", "Model": "XC90", "Year": 2021, "Colour": "Silver"},
+    {"Make": "Porsche", "Model": "Cayenne", "Year": 2022, "Colour": "Gray"},
     {"Make": "Acura", "Model": "TLX", "Year": 2020, "Colour": "Red"},
 
 ]
